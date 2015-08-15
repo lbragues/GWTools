@@ -5,7 +5,7 @@
 		"version":"0.0.1",
 		"minimum_version":"0.5.0",
 		"description":"This plugin tracks the distance a mesmer moves after setting up a portal.",
-		"location":"c:\\PortalTracker.dll",
-		"md5":""
+		"location":"https://www.dropbox.com/s/o2dx6m6sx4m0qcj/PortalTracker.dll?dl=1",
+		"md5":"096301e2b5cb1052be5507f00da45902"
 	}
 }
