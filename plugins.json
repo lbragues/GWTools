@@ -1,0 +1,11 @@
+{
+	"PortalTracker":{
+		"name":"PortalTracker",
+		"author":"s1",
+		"version":"0.0.1",
+		"minimum_version":"0.5.0",
+		"description":"This plugin tracks the distance a mesmer moves after setting up a portal.",
+		"location":"c:\\PortalTracker.dll",
+		"md5":""
+	}
+}
